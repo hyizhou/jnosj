@@ -1,7 +1,7 @@
 package nosj.analysis;
 
 
-import xyz.earthsky.nosj.Type;
+import nosj.Type;
 
 import java.util.Map;
 

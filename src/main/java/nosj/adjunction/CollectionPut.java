@@ -1,6 +1,6 @@
 package nosj.adjunction;
 
-import xyz.earthsky.nosj.ConversionBox;
+import nosj.ConversionBox;
 
 import java.util.Collection;
 import java.util.List;

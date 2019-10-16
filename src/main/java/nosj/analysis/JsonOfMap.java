@@ -1,8 +1,8 @@
 package nosj.analysis;
 
-import xyz.earthsky.nosj.ConversionBox;
-import xyz.earthsky.nosj.Type;
-import xyz.earthsky.nosj.adjunction.CollectionPut;
+import nosj.ConversionBox;
+import nosj.Type;
+import nosj.adjunction.CollectionPut;
 
 import java.util.Map;
 

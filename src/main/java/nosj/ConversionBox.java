@@ -1,7 +1,7 @@
 package nosj;
 
-import xyz.earthsky.nosj.analysis.JsonOfBean;
-import xyz.earthsky.nosj.analysis.JsonOfMap;
+import nosj.analysis.JsonOfBean;
+import nosj.analysis.JsonOfMap;
 
 import java.util.Collection;
 import java.util.Iterator;

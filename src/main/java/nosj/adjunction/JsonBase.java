@@ -1,6 +1,6 @@
 package nosj.adjunction;
 
-import xyz.earthsky.nosj.noumenon.JSON;
+import nosj.noumenon.JSON;
 
 /**
  * 抽象类，生成存储json字符串的属性，和获取json字符串的方法
